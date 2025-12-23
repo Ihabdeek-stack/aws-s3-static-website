@@ -25,3 +25,13 @@ http://ihab-site-001.s3-website-us-east-1.amazonaws.com
 - Cloud fundamentals
 - Object storage (S3)
 - Public access configuration
+## Screenshots
+
+### Live Website
+![Live Website](s3-website-live.png)
+
+### Static Website Hosting Enabled
+![S3 Static Hosting](s3-static-hosting-enabled.png)
+
+### Bucket Objects
+![Bucket Objects](s3-bucket-objects.png)
